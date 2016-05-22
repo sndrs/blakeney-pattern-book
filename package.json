@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "node-sass": "^3.4.2"
+  }
+}
