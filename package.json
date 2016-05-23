@@ -1,6 +1,11 @@
 {
-  "dependencies": {
-    "browser-sync": "^2.11.2",
-    "node-sass": "^3.4.2"
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.12.8",
+    "postcss": "^5.0.21",
+    "postcss-autoreset": "^1.1.5",
+    "postcss-cli": "^2.5.2",
+    "postcss-normalize": "^0.2.0"
   }
 }
